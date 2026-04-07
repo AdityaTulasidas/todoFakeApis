@@ -10,5 +10,25 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "todo":[
+  {
+    "userId": 1,
+    "id": 101,
+    "title": "Buy groceries for the week",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 102,
+    "title": "Finish Angular todo app",
+    "completed": true
+  },
+  {
+    "userId": 2,
+    "id": 103,
+    "title": "Review pull requests",
+    "completed": false
   }
+  ]
 }
